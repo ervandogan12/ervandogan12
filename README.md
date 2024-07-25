@@ -17,11 +17,11 @@
   
 
 <div align="left">
-- I love my family, coding, swimming, playing chess online😄, watching science || fantasy movies, and travelling.
-- 🔭 I had experience in developing mobile applications for the iOS App Store and Google Play Store.
-- 🌱 I’m currently learning and working on FULL STACK WEB DEVELOPMENT (React for frontend, Node.js for backend, and MongoDB for database).
-- 👯 I’m looking to collaborate on innovative projects related to mobile application developments, especially React Native used projects in the future.
-- 💬 Ask me about Flutter Mobile Application Development and FULL STACK WEB DEVELOPMENT.
+I love my family, coding, swimming, playing chess online, and watching science and fantasy movies. I also enjoy traveling.
+:telescope: I have experience in developing mobile applications for the iOS App Store and Google Play Store.
+:seedling: I’m currently learning and working on full stack web development, using React for the frontend, Node.js for the backend, and MongoDB for the database.
+:dancers: I’m looking to collaborate on innovative projects related to mobile application development, especially those using React Native.
+:speech_balloon: Ask me about Flutter Mobile Application Development and full stack web development.
 </div>
 
 ### 🔨 Languages and Tools:
