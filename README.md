@@ -64,8 +64,21 @@
 </a>
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=OneSignal&animation=spin&svgfill=FFCA28">
 </a>
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=unity&animation=spin&svgfill=FFCA28">
+</a>
+</a>
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=RevenueCat&animation=spin&svgfill=FFCA28">
 </a>
+</a>
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=xcode&animation=spin&svgfill=FFCA28">
+</a>
+</a>
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Cloudinary&animation=spin&svgfill=FFCA28">
+</a>
+</a>
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Render&animation=spin&svgfill=FFCA28">
+</a>
+
 
 ---
 ### :wrench: Technologies to Learn :
