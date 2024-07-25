@@ -16,13 +16,16 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
   
 
+
 <div align="left">
-I love my family, coding, swimming, playing chess online, and watching science and fantasy movies. I also enjoy traveling.
-:telescope: I have experience in developing mobile applications for the iOS App Store and Google Play Store.
-:seedling: I’m currently learning and working on full stack web development, using React for the frontend, Node.js for the backend, and MongoDB for the database.
-:dancers: I’m looking to collaborate on innovative projects related to mobile application development, especially those using React Native.
-:speech_balloon: Ask me about Flutter Mobile Application Development and full stack web development.
+    I love my family, coding, swimming, playing chess online, and watching science and fantasy movies. I also enjoy traveling.
+    <br>🔭 I have experience in developing mobile applications for the iOS App Store and Google Play Store.
+    <br>🌱 I’m currently learning and working on full stack web development, using React for the frontend, Node.js for the backend, and MongoDB for the database.
+    <br>🕺 I’m looking to collaborate on innovative projects related to mobile application development, especially those using React Native.
+    <br>💬 Ask me about Flutter Mobile Application Development and full stack web development.
 </div>
+
+
 
 ### 🔨 Languages and Tools:
 
