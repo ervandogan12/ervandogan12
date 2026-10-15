@@ -78,7 +78,8 @@
 </a>
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Render&animation=spin&svgfill=FFCA28">
 </a>
-
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Outsytems&animation=spin&svgfill=FFCA28">
+</a>
 
 ---
 ### :wrench: Technologies to Learn :
