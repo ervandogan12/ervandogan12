@@ -78,7 +78,7 @@
 </a>
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Render&animation=spin&svgfill=FFCA28">
 </a>
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Outsytems&animation=spin&svgfill=FFCA28">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Outsystems&animation=spin&svgfill=FFCA28">
 </a>
 
 ---
